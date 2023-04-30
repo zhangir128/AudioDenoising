@@ -1,5 +1,7 @@
 # AudioDenoising
+This repository contains the code and resources for an audio denoising project. The goal of this project is to remove background noise from audio recordings using a custom-trained machine learning model.
 
+# U-Net Architecture
 To train the model the program uses U-Net Architecture.
 The U-Net is a convolutional neural network architecture originally designed for biomedical image segmentation. It has since been adapted for various applications, including audio denoising. The U-Net's architecture is characterized by an encoder-decoder structure with skip connections between the corresponding layers of the encoder and decoder. This design enables the network to learn both low-level and high-level features, which allows it to accurately capture the structure and patterns in the input data.
 
@@ -11,3 +13,6 @@ The second code snippet is a script that loads a noisy audio file, preprocesses 
 
 # Data Used
 Valentini-Botinhao, Cassia. (2017). Noisy speech database for training speech enhancement algorithms and TTS models, 2016 [sound]. University of Edinburgh. School of Informatics. Centre for Speech Technology Research (CSTR). https://doi.org/10.7488/ds/2117.
+
+# Denoising Personal Recordings
+The model was used to denoise a personal audio recording. The recording was made in with a background noise of washine machine. The audio file has been included in the recordings folder in this repository.
