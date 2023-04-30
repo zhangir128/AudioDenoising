@@ -9,5 +9,5 @@ The first code snippet defines a training and validation loop for a deep learnin
 # Denoising.py
 The second code snippet is a script that loads a noisy audio file, preprocesses it, applies the trained UNetGenerator model to denoise the audio, and saves the denoised audio to a file. 
 
-#Data Used
+# Data Used
 Valentini-Botinhao, Cassia. (2017). Noisy speech database for training speech enhancement algorithms and TTS models, 2016 [sound]. University of Edinburgh. School of Informatics. Centre for Speech Technology Research (CSTR). https://doi.org/10.7488/ds/2117.
