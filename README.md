@@ -15,4 +15,4 @@ The second code snippet is a script that loads a noisy audio file, preprocesses 
 Valentini-Botinhao, Cassia. (2017). Noisy speech database for training speech enhancement algorithms and TTS models, 2016 [sound]. University of Edinburgh. School of Informatics. Centre for Speech Technology Research (CSTR). https://doi.org/10.7488/ds/2117.
 
 # Denoising Personal Recordings
-The model was used to denoise a personal audio recording. The recording was made in with a background noise of washine machine. The audio file has been included in the recordings folder in this repository.
+The model was used to denoise a personal audio recording. The recording was made with a background noise of washine machine and denoised. The audio files have been included in the recordings folder in this repository.
